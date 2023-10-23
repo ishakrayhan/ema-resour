@@ -1,0 +1,14 @@
+.header{
+    background-color: black;
+    height: 80px;
+    display: flex;
+    justify-content:space-between;
+    padding: 0 100px;
+    align-items: center;
+}
+
+nav.header a{
+    text-decoration: none;
+    color: azure;
+    margin-left: 30px;
+}
